@@ -1,0 +1,32 @@
+{
+    "groups": [
+      {
+        "group": "A",
+        "teams": [
+          {"name": "Canada", "iso": "CAN", "ranking": 23},
+          {"name": "Greece", "iso": "GRE", "ranking": 12},
+          {"name": "Australia", "iso": "AUS", "ranking": 3},
+          {"name": "Spain", "iso": "ESP", "ranking": 8}
+        ]
+      },
+      {
+        "group": "B",
+        "teams": [
+          {"name": "Germany", "iso": "GER", "ranking": 10},
+          {"name": "Japan", "iso": "JPN", "ranking": 28},
+          {"name": "France", "iso": "FRA", "ranking": 5},
+          {"name": "Brazil", "iso": "BRA", "ranking": 15}
+        ]
+      },
+      {
+        "group": "C",
+        "teams": [
+          {"name": "USA", "iso": "USA", "ranking": 1},
+          {"name": "Serbia", "iso": "SRB", "ranking": 6},
+          {"name": "Argentina", "iso": "ARG", "ranking": 7},
+          {"name": "Italy", "iso": "ITA", "ranking": 16}
+        ]
+      }
+    ]
+  }
+  

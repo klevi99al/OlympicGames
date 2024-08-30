@@ -1,0 +1,38 @@
+[
+    {
+        "teamA": "Canada",
+        "teamB": "Greece",
+        "scoreA": 85,
+        "scoreB": 79
+    },
+    {
+        "teamA": "Australia",
+        "teamB": "Spain",
+        "scoreA": 92,
+        "scoreB": 80
+    },
+    {
+        "teamA": "Germany",
+        "teamB": "Japan",
+        "scoreA": 97,
+        "scoreB": 77
+    },
+    {
+        "teamA": "France",
+        "teamB": "Brazil",
+        "scoreA": 78,
+        "scoreB": 66
+    },
+    {
+        "teamA": "USA",
+        "teamB": "Serbia",
+        "scoreA": 91,
+        "scoreB": 85
+    },
+    {
+        "teamA": "Argentina",
+        "teamB": "Italy",
+        "scoreA": 88,
+        "scoreB": 76
+    }
+]
